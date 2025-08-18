@@ -1,6 +1,6 @@
 # twitch-streamer-analytics
-# twitch-streamer-analytics
-# Twitch Stream Analysis
+Data is from :
+# https://streamhatchet.com/rankings/twitch/?period=last-30-days
 
 This project analyzes the **Top Twitch Channels (July 17 – Aug 16, 2025)** dataset to extract useful insights for streamers.  
 It explores **efficiency, audience stability, and streaming strategies** using Python.
