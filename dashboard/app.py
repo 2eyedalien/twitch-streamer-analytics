@@ -14,7 +14,7 @@ Explore airtime, average viewers, and engagement metrics.
 # Load data
 @st.cache_data
 def load_data():
-    return pd.read_csv("../data/top_twitch_channels.csv")
+    return pd.read_csv("twitch-streamer-analytics/data/top_twitch_channels.csv")
 
 df = load_data()
 
