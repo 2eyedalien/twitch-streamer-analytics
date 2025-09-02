@@ -8,8 +8,8 @@ It explores **efficiency, audience stability, and streaming strategies** using P
 ## How to Run
 1. Clone this repo:
    ```bash
-   git clone https://github.com/yourusername/twitch-stream-analysis.git
-   cd twitch-stream-analysis
+   git clone https://github.com/2eyedalien/twitch-streamer-analytics.git
+   cd twitch-streamer-analytics
    ```
 
 2. Install dependencies:
